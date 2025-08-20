@@ -1,5 +1,4 @@
-{
-  "name": "helphub-v2-5",
+"name": "helphub-v2-5",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -13,5 +12,3 @@
     "react-dom": "18.2.0",
     "axios": "1.6.8",
     "stripe": "11.8.0"
-  }
-}
